@@ -14,7 +14,7 @@
 
 <h1><h1>
 
-<a href="https://twitter.com/_mr_anony_mous">
+<a href="https://twitter.com/chessman_____">
   <img align="left" alt="Neelakandan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/neelakandan-a-12744418b/">
