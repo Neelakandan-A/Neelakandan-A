@@ -7,14 +7,14 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: _mr_anony_mous](https://img.shields.io/twitter/follow/_mr_anony_mous?style=flat-square)](https://twitter.com/_mr_anony_mous)
+[![Twitter: 0xchessman](https://img.shields.io/twitter/follow/0xchessman?style=flat-square)](https://twitter.com/0xchessman)
 [![GitHub Neelakandan-A](https://img.shields.io/github/followers/Neelakandan-A?label=follow%20github&style=flat-square)](https://github.com/Neelakandan-A)
 
 #### A Web Application Penetration Tester. Love To Find Loopholes😉
 
 <h1><h1>
 
-<a href="https://twitter.com/chessman_____">
+<a href="https://twitter.com/0xchessman">
   <img align="left" alt="Neelakandan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/neelakandan-a-12744418b/">
