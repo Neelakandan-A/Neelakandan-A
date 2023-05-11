@@ -26,7 +26,7 @@
 <a href="https://t.me/Neelakandan_A">
   <img align="left" alt="Neelakandan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/chessman__">
+<a href="https://instagram.com/imchessman">
   <img align="left" alt="Neelakandan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/neelakandan.a.397">
