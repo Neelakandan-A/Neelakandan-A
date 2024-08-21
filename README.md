@@ -1,5 +1,5 @@
 <h2> Hi<img src="https://github.com/Neelakandan-A/my-portfolio/blob/main/Hi.gif" height="25" width="25" />, I'm Neelakandan A!</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Neelakandan-A&show_icons=true&theme=tokyonight" width="380">
+<!--img align='right' src="https://github-readme-stats.vercel.app/api?username=Neelakandan-A&show_icons=true&theme=tokyonight" width="380">
 
 <img src="https://github.com/Neelakandan-A/my-portfolio/blob/main/21004063.jpg" height="150" width="150">
 
