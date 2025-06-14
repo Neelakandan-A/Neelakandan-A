@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Neelakandan-A/my-portfolio/blob/main/21004063.jpg" height="150" width="150">
 
-<p><em>Security Researcher, Red Teaming, Exploit Developer, CTF Player <br>
+<p><em>Security Researcher, Red Teaming, Exploit Dev, CTF Player <br>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
