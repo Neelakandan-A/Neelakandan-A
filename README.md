@@ -23,7 +23,7 @@
 <a href="https://github.com/Neelakandan-A">
   <img align="left" alt="Neelakandan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Neelakandan_A">
+<a href="https://t.me/0x">
   <img align="left" alt="Neelakandan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/imchessman">
